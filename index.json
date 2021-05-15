@@ -3,7 +3,8 @@
         "package_version": "1.4",
         "argos_version": "1.4",
         "type": "sbd",
-        "from_codes": ["en"]
+        "from_codes": ["en"],
+	"links": ["https://storage.googleapis.com/argospm/sbd.argosmodel"]
     },
     {
         "package_version": "1.0",
