@@ -1,1 +1,1 @@
-# argospm-index-dev
+# argospm-index
