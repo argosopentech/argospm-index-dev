@@ -1,5 +1,11 @@
 [
     {
+        "package_version": "1.4",
+        "argos_version": "1.4",
+        "type": "sbd",
+        "from_codes": ["en"]
+    },
+    {
         "package_version": "1.0",
         "argos_version": "1.0",
         "from_code": "ar",
