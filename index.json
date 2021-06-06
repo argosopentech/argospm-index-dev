@@ -1,5 +1,15 @@
 [
     {
+        "package_version": "1.4",
+        "argos_version": "1.4",
+        "type": "sbd",
+        "from_codes": ["en", "de", "es", "fr", "pt", "ru"],
+        "links": [
+            "https://storage.googleapis.com/argospm/sbd-1_4.argosmodel",
+            "ipfs://QmYnBQBsV2LRj8GgawfkaV2bYmhYVkgiB5eCavY8V3i22p"
+        ]
+    },
+    {
         "package_version": "1.0",
         "argos_version": "1.0",
         "from_code": "ar",
